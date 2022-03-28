@@ -1,7 +1,7 @@
 # React hooks
 
 ### React函数式组件的特性
-
+123
 1.不需要声明类，可以避免大量的constructor，extends之类的代码
 
 2.不需要显示声明this关键字
